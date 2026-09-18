@@ -75,18 +75,7 @@ Completed:
 
 Pending:
 
-- First confirmed boot
-- Runtime logs
-- Wi-Fi / Bluetooth
-- RIL / IMS / VoLTE
-- Camera
-- Fingerprint
-- Audio / microphone
-- Sensors / GPS
-- Charging / thermal
-- Runtime SELinux audit
-- Stable AVB strategy
-- Stable release packaging
+- To Actually Test The ROM
 
 ## Dynamic Partitions
 
