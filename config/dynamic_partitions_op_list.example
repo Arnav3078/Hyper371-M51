@@ -1,0 +1,10 @@
+remove_all_groups
+add_group qti_dynamic_partitions 8048869376
+add system qti_dynamic_partitions
+add vendor qti_dynamic_partitions
+add product qti_dynamic_partitions
+add odm qti_dynamic_partitions
+resize system 1435795456
+resize vendor 809484288
+resize product 2287689728
+resize odm 606208

@@ -1,0 +1,62 @@
+# Proprietary Android/Samsung/Xiaomi artifacts
+*.img
+*.bin
+*.mbn
+*.elf
+*.lz4
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.md5
+*.new.dat
+*.new.dat.br
+*.patch.dat
+
+# Samsung firmware packages
+AP_*
+BL_*
+CP_*
+CSC_*
+HOME_CSC_*
+
+# Dynamic/super images
+super*
+unsparse_super_empty*
+
+# Device-private data
+efs*
+sec_efs*
+persist*
+modemst*
+fsg*
+fsc*
+
+# Keys / signing material
+*.pem
+*.pk8
+*.key
+*.keystore
+*.jks
+
+# Local workspaces
+work/
+output/
+backup/
+donor/
+target/
+mounts/
+extracted/
+images/
+payload/
+ziproot*/
+package_v*/
+
+# Logs / editor noise
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
