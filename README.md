@@ -6,6 +6,24 @@ Experimental **HyperOS 3.1 / Hyper371 port for the Samsung Galaxy M51 (SM-M515F)
 >
 > Extensive static verification has been completed, but the first confirmed public boot is still pending. This is not a stable ROM.
 
+## Latest Test Release
+
+**Hyper371-M51 v0.1 TEST**
+
+- GitHub Release: https://github.com/Arnav3078/Hyper371-M51/releases/tag/v0.1-test
+- ROM Download: https://drive.google.com/file/d/1h_ADONtAkCWC-9hrxOm4hEsbebYCMFr6/view?usp=sharing
+- Status: **Experimental / First Boot Testing**
+- Device: **SM-M515F only**
+- Firmware baseline: `M515FXXS6DXE3 / RP6`
+
+**SHA-256:**
+
+`afdc447ca4453d4848a748da571229e3995213cef1ec4f9232053e67340b3a86`
+
+> This is an experimental test build. Keep a verified EFS backup and working Odin/Download Mode recovery before testing.
+
+---
+
 ## Project Goal
 
 Bring the Hyper371 HyperOS userspace to the Galaxy M51 while retaining the Galaxy M51 hardware stack required for actual device compatibility.
