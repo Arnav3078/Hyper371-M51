@@ -16,7 +16,7 @@ This is **not a generic GSI**.
 
 - Device: Samsung Galaxy M51
 - Model: `SM-M515F`
-- Platform: Qualcomm SM6150 family
+- Platform: Qualcomm SM7150 family
 - Test firmware baseline: `M515FXXS6DXE3`
 - Rollback protection: `RP6`
 - Hardware identity check used by the test installer: `ro.boot.em.model=SM-M515F`
