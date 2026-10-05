@@ -191,3 +191,6 @@ Users must obtain proprietary files legally themselves.
 ## Project Status
 
 **v0.1 — First Boot Testing**
+
+##Credit
+@@techtoktomato For the Original Hyper371
